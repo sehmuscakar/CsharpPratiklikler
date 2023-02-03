@@ -1,0 +1,9 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\bin\Debug\char değişken.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\bin\Debug\char değişken.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\bin\Debug\char değişken.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\obj\Debug\char_değişken.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\obj\Debug\char_değişken.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\obj\Debug\char değişken.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\obj\Debug\char değişken.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\obj\Debug\char değişken.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\char değişken\char değişken\obj\Debug\char değişken.pdb

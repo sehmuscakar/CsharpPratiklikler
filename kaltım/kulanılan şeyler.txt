@@ -1,0 +1,3 @@
+kalıtım:bir sınıftaki alanları bir başka sınıfa taşınması 
+amac: yeni bir nesne türtmeden başka bir sınıftan aynı nesne üzerinde işlem yapmak 
+ class arabacs:arabadetay --> kalıtım bu iste iki sınıf ve bu sınıfları tek bir nesne üzerinde işlem yaptırdık 

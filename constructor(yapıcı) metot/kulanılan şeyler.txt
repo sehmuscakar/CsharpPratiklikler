@@ -1,0 +1,12 @@
+yapıcı metot:nitelikleri nesne kulanılmadan direk calıştılmak istenildiğinde kulnaılır 
+
+sınıf adıyla aynı olmalı,
+
+yani;metodunu oluştur sonra sınıf ta direk cağırabilirsin 
+ kod kısmına bak anlarsın 
+
+Yapıcı Metotlar Nasıl Tanımlanır ? 
+
+Yapıcı metotların isimleri sınıf isimleri ile aynı olmak zorundadır.
+Public olarak bildirilmeleri gerekir.
+Geri dönüş değerleri yoktur.

@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\bin\Debug\chart(grafik) kalanımı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\bin\Debug\chart(grafik) kalanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\bin\Debug\chart(grafik) kalanımı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart(grafik) kalanımı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart_grafik__kalanımı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart_grafik__kalanımı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart(grafik) kalanımı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart(grafik) kalanımı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart(grafik) kalanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\chart(grafik) kalanımı\chart(grafik) kalanımı\obj\Debug\chart(grafik) kalanımı.pdb

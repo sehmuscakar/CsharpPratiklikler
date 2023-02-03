@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\bin\Debug\int değişkenler.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\bin\Debug\int değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\bin\Debug\int değişkenler.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int değişkenler.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int_değişkenler.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int_değişkenler.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int değişkenler.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\int değişkenler\int değişkenler\obj\Debug\int değişkenler.pdb

@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\bin\Debug\exception ve mesajlar.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\bin\Debug\exception ve mesajlar.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\bin\Debug\exception ve mesajlar.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception ve mesajlar.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception_ve_mesajlar.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception_ve_mesajlar.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception ve mesajlar.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception ve mesajlar.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception ve mesajlar.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\exception ve mesajlar\exception ve mesajlar\obj\Debug\exception ve mesajlar.pdb

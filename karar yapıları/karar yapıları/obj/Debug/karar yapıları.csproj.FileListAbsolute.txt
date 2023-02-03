@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\bin\Debug\karar yapıları.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\bin\Debug\karar yapıları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\bin\Debug\karar yapıları.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar yapıları.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar_yapıları.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar_yapıları.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar yapıları.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar yapıları.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar yapıları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\karar yapıları\karar yapıları\obj\Debug\karar yapıları.pdb

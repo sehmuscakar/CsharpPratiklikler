@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kaltım", "kaltım\kaltım.csproj", "{CCB4964E-4679-47E3-8D9D-AFD5801E5073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB4964E-4679-47E3-8D9D-AFD5801E5073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB4964E-4679-47E3-8D9D-AFD5801E5073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB4964E-4679-47E3-8D9D-AFD5801E5073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB4964E-4679-47E3-8D9D-AFD5801E5073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0347E159-B873-4A6B-8A9E-3A92E25DB12B}
+	EndGlobalSection
+EndGlobal

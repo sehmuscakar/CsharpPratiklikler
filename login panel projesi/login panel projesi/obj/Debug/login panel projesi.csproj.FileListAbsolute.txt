@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login panel projesi.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\bin\Debug\login panel projesi.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\bin\Debug\login panel projesi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\bin\Debug\login panel projesi.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login_panel_projesi.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login_panel_projesi.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login panel projesi.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login panel projesi.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login panel projesi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\login panel projesi\login panel projesi\obj\Debug\login panel projesi.pdb

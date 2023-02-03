@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\bin\Debug\metod ile küp heaplayan uyg.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\bin\Debug\metod ile küp heaplayan uyg.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\bin\Debug\metod ile küp heaplayan uyg.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod ile küp heaplayan uyg.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod_ile_küp_heaplayan_uyg.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod_ile_küp_heaplayan_uyg.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod ile küp heaplayan uyg.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod ile küp heaplayan uyg.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod ile küp heaplayan uyg.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metod ile küp heaplayan uyg\metod ile küp heaplayan uyg\obj\Debug\metod ile küp heaplayan uyg.pdb

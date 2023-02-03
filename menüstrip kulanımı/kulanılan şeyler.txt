@@ -1,0 +1,11 @@
+menüstrip:menü şeridi=>form üzerinde menü oluşturabilmemizi sağlar 
+type here:buraya yaz
+here:burada
+ Application.Exit()//uygulamadan cik 
+
+wep browser kulanımı:internet tarayıcısı=>internete gezinmek için bir wep arayüzü oluşturuyor 
+bu aracı kulanırken tam ekran yapma küçült biraz 
+
+navigate:gezinmek
+
+ webBrowser1.Navigate //navigate yünlendir anlamında burda yani linke git kısacası 

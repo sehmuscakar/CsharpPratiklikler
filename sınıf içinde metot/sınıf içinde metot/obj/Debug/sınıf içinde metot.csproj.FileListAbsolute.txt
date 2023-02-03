@@ -1,0 +1,7 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\bin\Debug\sınıf içinde metot.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\bin\Debug\sınıf içinde metot.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\bin\Debug\sınıf içinde metot.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\obj\Debug\sınıf içinde metot.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\obj\Debug\sınıf içinde metot.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\obj\Debug\sınıf içinde metot.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde metot\sınıf içinde metot\obj\Debug\sınıf içinde metot.pdb

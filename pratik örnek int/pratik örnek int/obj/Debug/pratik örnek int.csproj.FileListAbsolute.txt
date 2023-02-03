@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\bin\Debug\pratik örnek int.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\bin\Debug\pratik örnek int.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\bin\Debug\pratik örnek int.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik örnek int.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik_örnek_int.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik_örnek_int.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik örnek int.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik örnek int.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik örnek int.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pratik örnek int\pratik örnek int\obj\Debug\pratik örnek int.pdb

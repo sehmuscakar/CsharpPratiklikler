@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\bin\Debug\while ve do while.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\bin\Debug\while ve do while.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\bin\Debug\while ve do while.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while ve do while.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while_ve_do_while.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while_ve_do_while.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while ve do while.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while ve do while.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while ve do while.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\while ve do while\while ve do while\obj\Debug\while ve do while.pdb

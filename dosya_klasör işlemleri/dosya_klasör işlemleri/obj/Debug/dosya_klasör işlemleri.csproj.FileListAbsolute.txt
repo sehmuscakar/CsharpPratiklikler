@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\bin\Debug\dosya_klasör işlemleri.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\bin\Debug\dosya_klasör işlemleri.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\bin\Debug\dosya_klasör işlemleri.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör işlemleri.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör_işlemleri.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör_işlemleri.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör işlemleri.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör işlemleri.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör işlemleri.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dosya_klasör işlemleri\dosya_klasör işlemleri\obj\Debug\dosya_klasör işlemleri.pdb

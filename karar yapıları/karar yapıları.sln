@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karar yapıları", "karar yapıları\karar yapıları.csproj", "{15BC1EC6-11B7-4AF1-AF6D-32F700202972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15BC1EC6-11B7-4AF1-AF6D-32F700202972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BC1EC6-11B7-4AF1-AF6D-32F700202972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BC1EC6-11B7-4AF1-AF6D-32F700202972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BC1EC6-11B7-4AF1-AF6D-32F700202972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541BC70A-F2FB-43FB-B850-F0ACF6D96FDD}
+	EndGlobalSection
+EndGlobal

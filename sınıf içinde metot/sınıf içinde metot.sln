@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sınıf içinde metot", "sınıf içinde metot\sınıf içinde metot.csproj", "{B6FE430E-FEC8-43DE-9A65-0384ECEE3D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FE430E-FEC8-43DE-9A65-0384ECEE3D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FE430E-FEC8-43DE-9A65-0384ECEE3D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FE430E-FEC8-43DE-9A65-0384ECEE3D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FE430E-FEC8-43DE-9A65-0384ECEE3D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801C6923-E4E9-40C5-AE2E-B2F8E0AC59B2}
+	EndGlobalSection
+EndGlobal

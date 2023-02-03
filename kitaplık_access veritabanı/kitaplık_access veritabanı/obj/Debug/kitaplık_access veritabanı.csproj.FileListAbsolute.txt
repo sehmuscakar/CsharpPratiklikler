@@ -1,0 +1,11 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\bin\Debug\access veri tabanı kitaplık.mdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\bin\Debug\kitaplık_access veritabanı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\bin\Debug\kitaplık_access veritabanı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\bin\Debug\kitaplık_access veritabanı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access veritabanı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access_veritabanı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access_veritabanı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access veritabanı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access veritabanı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access veritabanı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kitaplık_access veritabanı\kitaplık_access veritabanı\obj\Debug\kitaplık_access veritabanı.pdb

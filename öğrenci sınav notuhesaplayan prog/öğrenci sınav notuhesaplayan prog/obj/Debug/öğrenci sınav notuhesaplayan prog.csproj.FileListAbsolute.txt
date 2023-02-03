@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\bin\Debug\öğrenci sınav notuhesaplayan prog.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\bin\Debug\öğrenci sınav notuhesaplayan prog.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\bin\Debug\öğrenci sınav notuhesaplayan prog.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci sınav notuhesaplayan prog.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci_sınav_notuhesaplayan_prog.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci_sınav_notuhesaplayan_prog.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci sınav notuhesaplayan prog.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci sınav notuhesaplayan prog.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci sınav notuhesaplayan prog.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav notuhesaplayan prog\öğrenci sınav notuhesaplayan prog\obj\Debug\öğrenci sınav notuhesaplayan prog.pdb

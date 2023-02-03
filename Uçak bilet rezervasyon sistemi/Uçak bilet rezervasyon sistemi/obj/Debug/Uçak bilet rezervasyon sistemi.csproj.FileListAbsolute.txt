@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\bin\Debug\Uçak bilet rezervasyon sistemi.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\bin\Debug\Uçak bilet rezervasyon sistemi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\bin\Debug\Uçak bilet rezervasyon sistemi.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak bilet rezervasyon sistemi.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak_bilet_rezervasyon_sistemi.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak_bilet_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak bilet rezervasyon sistemi.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak bilet rezervasyon sistemi.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak bilet rezervasyon sistemi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\Uçak bilet rezervasyon sistemi\Uçak bilet rezervasyon sistemi\obj\Debug\Uçak bilet rezervasyon sistemi.pdb

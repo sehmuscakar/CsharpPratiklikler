@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login panel projesi", "login panel projesi\login panel projesi.csproj", "{6281CD02-AD0E-42B1-9B34-47BB9815B08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6281CD02-AD0E-42B1-9B34-47BB9815B08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6281CD02-AD0E-42B1-9B34-47BB9815B08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6281CD02-AD0E-42B1-9B34-47BB9815B08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6281CD02-AD0E-42B1-9B34-47BB9815B08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB648CBA-5CB1-4976-A850-B7A05AB78AED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\bin\Debug\alışveriş indirim tutar hesaplam.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\bin\Debug\alışveriş indirim tutar hesaplam.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\bin\Debug\alışveriş indirim tutar hesaplam.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş indirim tutar hesaplam.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş_indirim_tutar_hesaplam.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş_indirim_tutar_hesaplam.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş indirim tutar hesaplam.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş indirim tutar hesaplam.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş indirim tutar hesaplam.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\alışveriş indirim tutar hesaplam\alışveriş indirim tutar hesaplam\obj\Debug\alışveriş indirim tutar hesaplam.pdb

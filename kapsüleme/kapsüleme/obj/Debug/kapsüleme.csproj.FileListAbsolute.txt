@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\bin\Debug\kapsüleme.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\bin\Debug\kapsüleme.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\bin\Debug\kapsüleme.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kapsüleme\kapsüleme\obj\Debug\kapsüleme.pdb

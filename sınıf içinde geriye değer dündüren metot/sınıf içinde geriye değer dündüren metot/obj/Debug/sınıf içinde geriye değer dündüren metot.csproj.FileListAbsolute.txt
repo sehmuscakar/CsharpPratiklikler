@@ -1,0 +1,7 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\bin\Debug\sınıf içinde geriye değer dündüren metot.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\bin\Debug\sınıf içinde geriye değer dündüren metot.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\bin\Debug\sınıf içinde geriye değer dündüren metot.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\obj\Debug\sınıf içinde geriye değer dündüren metot.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\obj\Debug\sınıf içinde geriye değer dündüren metot.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\obj\Debug\sınıf içinde geriye değer dündüren metot.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf içinde geriye değer dündüren metot\sınıf içinde geriye değer dündüren metot\obj\Debug\sınıf içinde geriye değer dündüren metot.pdb

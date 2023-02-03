@@ -1,0 +1,16 @@
+diziler:birbiriyle ilşkili veriler kümesi 
+index=sıra
+--------------
+bellek--> RAMde TUTULUR gecici belek
+
+ilk index =0
+[] bu parentez onun dizi olduğunu güsterir
+--------------------
+değişkentürü[]diziadı={};
+
+örnek diziler:
+renkler=mavi,sarı,kırmızı,beyaz...
+çift sayılar=2,4,6...
+bunlar bir dizi
+length:uzunluk=>> bu uzunluk 1 den başlar saymaya yani index gibi 0 dan değil
+not:alt ile fare imleci aynı anda düz den aşağı gelerek  

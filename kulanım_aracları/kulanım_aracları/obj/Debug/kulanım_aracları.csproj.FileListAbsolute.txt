@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\bin\Debug\kulanım_aracları.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\bin\Debug\kulanım_aracları.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\bin\Debug\kulanım_aracları.pdb
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.exe
+C:\Users\scaka\OneDrive\Masaüstü\HER YÖNÜYLE C# KONULARI\udemy c# konuları\kulanım_aracları\kulanım_aracları\obj\Debug\kulanım_aracları.pdb

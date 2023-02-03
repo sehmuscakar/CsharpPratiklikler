@@ -1,0 +1,9 @@
+ Context Menu Strip Kullanımı:tanımlandığı yere sağ tıklandığında bir  menü açılır 
+context menu strip:bağlam menüsü şeridi
+not:properties te contex menu strip te kısmını seç 
+System.Diagnostics.Process.Start("calc.exe");//hesap makinesini getirir
+Diagnostics:tanıla anlamında 
+Process:işlem 
+Start:başlat
+
+System.Diagnostics.Process.Start("mspaint.exe");// painti acar 

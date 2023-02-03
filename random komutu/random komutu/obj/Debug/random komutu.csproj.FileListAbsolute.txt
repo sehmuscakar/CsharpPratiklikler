@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\bin\Debug\random komutu.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\bin\Debug\random komutu.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\bin\Debug\random komutu.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random komutu.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random_komutu.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random_komutu.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random komutu.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random komutu.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random komutu.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\random komutu\random komutu\obj\Debug\random komutu.pdb

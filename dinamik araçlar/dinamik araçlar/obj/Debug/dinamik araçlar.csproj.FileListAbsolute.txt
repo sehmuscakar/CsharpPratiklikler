@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\bin\Debug\dinamik araçlar.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\bin\Debug\dinamik araçlar.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\bin\Debug\dinamik araçlar.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik araçlar.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik_araçlar.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik_araçlar.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik araçlar.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik araçlar.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik araçlar.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\dinamik araçlar\dinamik araçlar\obj\Debug\dinamik araçlar.pdb

@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\bin\Debug\progressbar kulanımı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\bin\Debug\progressbar kulanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\bin\Debug\progressbar kulanımı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar kulanımı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar_kulanımı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar_kulanımı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar kulanımı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar kulanımı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar kulanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\progressbar kulanımı\progressbar kulanımı\obj\Debug\progressbar kulanımı.pdb

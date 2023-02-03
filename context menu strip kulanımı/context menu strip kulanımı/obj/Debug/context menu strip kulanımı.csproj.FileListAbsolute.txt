@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\bin\Debug\context menu strip kulanımı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\bin\Debug\context menu strip kulanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\bin\Debug\context menu strip kulanımı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context menu strip kulanımı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context_menu_strip_kulanımı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context_menu_strip_kulanımı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context menu strip kulanımı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context menu strip kulanımı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context menu strip kulanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\context menu strip kulanımı\context menu strip kulanımı\obj\Debug\context menu strip kulanımı.pdb

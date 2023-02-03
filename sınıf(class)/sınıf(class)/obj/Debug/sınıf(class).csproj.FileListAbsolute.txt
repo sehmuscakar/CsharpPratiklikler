@@ -1,0 +1,11 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\bin\Debug\sınıf(class).exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\bin\Debug\sınıf(class).exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\bin\Debug\sınıf(class).pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf(class).csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf_class_.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf_class_.Form2.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf_class_.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf(class).csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf(class).csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf(class).exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sınıf(class)\sınıf(class)\obj\Debug\sınıf(class).pdb

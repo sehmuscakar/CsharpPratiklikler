@@ -1,0 +1,6 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\constructor(yapıcı) metot\constructor(yapıcı) metot\bin\Debug\constructor(yapıcı) metot.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\constructor(yapıcı) metot\constructor(yapıcı) metot\bin\Debug\constructor(yapıcı) metot.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\constructor(yapıcı) metot\constructor(yapıcı) metot\bin\Debug\constructor(yapıcı) metot.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\constructor(yapıcı) metot\constructor(yapıcı) metot\obj\Debug\constructor(yapıcı) metot.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\constructor(yapıcı) metot\constructor(yapıcı) metot\obj\Debug\constructor(yapıcı) metot.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\constructor(yapıcı) metot\constructor(yapıcı) metot\obj\Debug\constructor(yapıcı) metot.pdb

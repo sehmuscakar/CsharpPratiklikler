@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\bin\Debug\metin belgesine veri kaydetme.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\bin\Debug\metin belgesine veri kaydetme.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\bin\Debug\metin belgesine veri kaydetme.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin belgesine veri kaydetme.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin_belgesine_veri_kaydetme.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin_belgesine_veri_kaydetme.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin belgesine veri kaydetme.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin belgesine veri kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin belgesine veri kaydetme.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesine veri kaydetme\metin belgesine veri kaydetme\obj\Debug\metin belgesine veri kaydetme.pdb

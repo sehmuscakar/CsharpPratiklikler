@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\bin\Debug\string değişkenler.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\bin\Debug\string değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\bin\Debug\string değişkenler.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string değişkenler.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string_değişkenler.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string_değişkenler.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string değişkenler.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\string değişkenler\string değişkenler\obj\Debug\string değişkenler.pdb

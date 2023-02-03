@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\bin\Debug\timer ile digital saat.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\bin\Debug\timer ile digital saat.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\bin\Debug\timer ile digital saat.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer ile digital saat.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer_ile_digital_saat.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer_ile_digital_saat.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer ile digital saat.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer ile digital saat.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer ile digital saat.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\timer ile digital saat\timer ile digital saat\obj\Debug\timer ile digital saat.pdb

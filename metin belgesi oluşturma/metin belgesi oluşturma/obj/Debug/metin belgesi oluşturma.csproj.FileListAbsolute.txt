@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\bin\Debug\metin belgesi oluşturma.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\bin\Debug\metin belgesi oluşturma.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\bin\Debug\metin belgesi oluşturma.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin belgesi oluşturma.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin_belgesi_oluşturma.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin_belgesi_oluşturma.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin belgesi oluşturma.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin belgesi oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin belgesi oluşturma.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\metin belgesi oluşturma\metin belgesi oluşturma\obj\Debug\metin belgesi oluşturma.pdb

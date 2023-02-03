@@ -1,0 +1,13 @@
+combobox:açılan kutu=>coklu seçim kutusu
+kulanıcıya coklu secim yapma hakkı tanır ,şehir seçin,ilçe seçin
+edit:düzenle
+items:öğeler,nesneler
+string collection editor:string koleksiyonları düzenleyicisi
+editor :düzenleyıcısı herhalde 
+one per line:her satıra bir tane 
+one :bir
+per:her
+line :satır
+listbox:liste kutusu=> combobox un açılmış hali açılmış hali 
+combobox taki benzer özelikler var,string collection editor gibi
+ordan verileri ekleyebilirsin

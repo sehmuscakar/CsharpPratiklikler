@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\bin\Debug\öğrenci sınav durumu hesaplama.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\bin\Debug\öğrenci sınav durumu hesaplama.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\bin\Debug\öğrenci sınav durumu hesaplama.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci sınav durumu hesaplama.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci_sınav_durumu_hesaplama.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci_sınav_durumu_hesaplama.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci sınav durumu hesaplama.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci sınav durumu hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci sınav durumu hesaplama.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\öğrenci sınav durumu hesaplama\öğrenci sınav durumu hesaplama\obj\Debug\öğrenci sınav durumu hesaplama.pdb

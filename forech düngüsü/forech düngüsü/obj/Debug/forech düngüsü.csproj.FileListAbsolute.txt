@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\bin\Debug\forech düngüsü.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\bin\Debug\forech düngüsü.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\bin\Debug\forech düngüsü.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech düngüsü.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech_düngüsü.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech_düngüsü.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech düngüsü.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech düngüsü.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech düngüsü.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\forech düngüsü\forech düngüsü\obj\Debug\forech düngüsü.pdb

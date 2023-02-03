@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\bin\Debug\combobox ve listbox kulanımaracları.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\bin\Debug\combobox ve listbox kulanımaracları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\bin\Debug\combobox ve listbox kulanımaracları.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox ve listbox kulanımaracları.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox_ve_listbox_kulanımaracları.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox_ve_listbox_kulanımaracları.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox ve listbox kulanımaracları.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox ve listbox kulanımaracları.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox ve listbox kulanımaracları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\combobox ve listbox kulanımaracları\combobox ve listbox kulanımaracları\obj\Debug\combobox ve listbox kulanımaracları.pdb

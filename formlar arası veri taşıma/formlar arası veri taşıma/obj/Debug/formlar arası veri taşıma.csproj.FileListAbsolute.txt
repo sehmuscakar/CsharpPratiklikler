@@ -1,0 +1,11 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\bin\Debug\formlar arası veri taşıma.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\bin\Debug\formlar arası veri taşıma.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\bin\Debug\formlar arası veri taşıma.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar arası veri taşıma.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar_arası_veri_taşıma.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar_arası_veri_taşıma.Form2.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar_arası_veri_taşıma.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar arası veri taşıma.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar arası veri taşıma.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar arası veri taşıma.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası veri taşıma\formlar arası veri taşıma\obj\Debug\formlar arası veri taşıma.pdb

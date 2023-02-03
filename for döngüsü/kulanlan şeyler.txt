@@ -1,0 +1,11 @@
+for döngüsü:for(başlangic,aralık,artış){
+code;
+}
+
+i+=1 ---> bu kulanım i++ ile aynı 
+i+=2----> bu kılanım ise 2 ser artırır 
+
+break point metodu hatta yaıklama kulanlır sanki işlemleri adım adım yapar işte bu kulanımı sonra araştır
+
+
+

@@ -1,0 +1,17 @@
+maskedtextbox:maskeli metin kutusu=>işte tlf ,no,tc,vb şeyler seceriz maskeden kastedilen bu 
+set mask:maske ayarla
+input mask:giriş maskesi
+tasks:görevler
+perview:önizleme
+picturebox:resim kutusu=>resim eklemek için kulanılır 
+choose image:resim seç 
+dock in parent container:formun tamamını kapla 
+size mode:boyut modu
+local resource :yerel kaynak
+import:dahil et
+
+datetimepicker:tarihzamantoplyıcısı=>bunun için kulanıılır
+
+
+
+

@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\bin\Debug\formlar arası geciş.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\bin\Debug\formlar arası geciş.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\bin\Debug\formlar arası geciş.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar arası geciş.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar_arası_geciş.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar_arası_geciş.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar arası geciş.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar arası geciş.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar arası geciş.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\formlar arası geciş\formlar arası geciş\obj\Debug\formlar arası geciş.pdb

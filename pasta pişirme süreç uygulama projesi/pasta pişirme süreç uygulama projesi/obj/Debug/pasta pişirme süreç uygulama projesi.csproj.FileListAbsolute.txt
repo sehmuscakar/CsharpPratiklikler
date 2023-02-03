@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\bin\Debug\pasta pişirme süreç uygulama projesi.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\bin\Debug\pasta pişirme süreç uygulama projesi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\bin\Debug\pasta pişirme süreç uygulama projesi.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta pişirme süreç uygulama projesi.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta_pişirme_süreç_uygulama_projesi.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta_pişirme_süreç_uygulama_projesi.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta pişirme süreç uygulama projesi.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta pişirme süreç uygulama projesi.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta pişirme süreç uygulama projesi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\pasta pişirme süreç uygulama projesi\pasta pişirme süreç uygulama projesi\obj\Debug\pasta pişirme süreç uygulama projesi.pdb

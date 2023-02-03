@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\bin\Debug\double değişkenler.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\bin\Debug\double değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\bin\Debug\double değişkenler.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double değişkenler.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double_değişkenler.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double_değişkenler.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double değişkenler.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double değişkenler.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\double değişkenler\double değişkenler\obj\Debug\double değişkenler.pdb

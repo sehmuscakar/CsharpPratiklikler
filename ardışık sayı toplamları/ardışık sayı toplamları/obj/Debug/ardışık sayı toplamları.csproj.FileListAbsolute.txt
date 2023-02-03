@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\bin\Debug\ardışık sayı toplamları.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\bin\Debug\ardışık sayı toplamları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\bin\Debug\ardışık sayı toplamları.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık sayı toplamları.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık_sayı_toplamları.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık_sayı_toplamları.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık sayı toplamları.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık sayı toplamları.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık sayı toplamları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\ardışık sayı toplamları\ardışık sayı toplamları\obj\Debug\ardışık sayı toplamları.pdb

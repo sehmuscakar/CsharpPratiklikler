@@ -1,0 +1,5 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\captcha oluşturma\captcha oluşturma\obj\Debug\captcha oluşturma.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\captcha oluşturma\captcha oluşturma\obj\Debug\captcha_oluşturma.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\captcha oluşturma\captcha oluşturma\obj\Debug\captcha_oluşturma.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\captcha oluşturma\captcha oluşturma\obj\Debug\captcha oluşturma.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\captcha oluşturma\captcha oluşturma\obj\Debug\captcha oluşturma.csproj.CoreCompileInputs.cache

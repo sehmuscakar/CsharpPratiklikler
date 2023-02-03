@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\bin\Debug\menüstrip kulanımı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\bin\Debug\menüstrip kulanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\bin\Debug\menüstrip kulanımı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip kulanımı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip_kulanımı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip_kulanımı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip kulanımı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip kulanımı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip kulanımı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\menüstrip kulanımı\menüstrip kulanımı\obj\Debug\menüstrip kulanımı.pdb

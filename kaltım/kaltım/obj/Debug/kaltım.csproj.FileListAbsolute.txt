@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\bin\Debug\kaltım.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\bin\Debug\kaltım.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\bin\Debug\kaltım.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\kaltım\kaltım\obj\Debug\kaltım.pdb

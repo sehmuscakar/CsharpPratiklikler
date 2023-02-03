@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\bin\Debug\diziler(arrey).exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\bin\Debug\diziler(arrey).exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\bin\Debug\diziler(arrey).pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler(arrey).csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler_arrey_.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler_arrey_.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler(arrey).csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler(arrey).csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler(arrey).exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\diziler(arrey)\diziler(arrey)\obj\Debug\diziler(arrey).pdb

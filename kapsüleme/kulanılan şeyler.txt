@@ -1,0 +1,6 @@
+Kapsüleme:bilincsiz kulanımı ünleyen private alanları publiç hale getiren 
+bizim kulanmamızı sağlar ,sen istediğin halde kulanmanı sağlar kısacası 
+
+yani;private olanları senin istediğin şekilde erişebilirsin kapsülemede 
+//not : veri türlerinin erişimini sınıfta oluşturuyorsun unutma public priivate 
+sınıf formu açarak yani 

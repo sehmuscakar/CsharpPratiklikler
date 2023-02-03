@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\bin\Debug\matamatik fonksiyonları.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\bin\Debug\matamatik fonksiyonları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\bin\Debug\matamatik fonksiyonları.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik fonksiyonları.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik_fonksiyonları.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik_fonksiyonları.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik fonksiyonları.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik fonksiyonları.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\matamatik fonksiyonları\matamatik fonksiyonları\obj\Debug\matamatik fonksiyonları.pdb

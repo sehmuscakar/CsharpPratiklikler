@@ -1,0 +1,2 @@
+not:önemli,accses veri tabanı projeyi calıştırdığında mutlaka 
+tasarım gürünümünün penceresini kapat yoksa calıştırıken hatta vercektir

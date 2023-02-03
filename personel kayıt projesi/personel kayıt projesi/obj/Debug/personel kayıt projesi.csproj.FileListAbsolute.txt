@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\bin\Debug\personel kayıt projesi.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\bin\Debug\personel kayıt projesi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\bin\Debug\personel kayıt projesi.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel kayıt projesi.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel_kayıt_projesi.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel_kayıt_projesi.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel kayıt projesi.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel kayıt projesi.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel kayıt projesi.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\personel kayıt projesi\personel kayıt projesi\obj\Debug\personel kayıt projesi.pdb

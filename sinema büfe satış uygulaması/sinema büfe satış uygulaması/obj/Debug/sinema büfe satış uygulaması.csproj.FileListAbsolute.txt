@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\sinema büfe satış uygulaması.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\sinema büfe satış uygulaması.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\sinema büfe satış uygulaması.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema büfe satış uygulaması.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema_büfe_satış_uygulaması.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema_büfe_satış_uygulaması.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema büfe satış uygulaması.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema büfe satış uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema büfe satış uygulaması.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\sinema büfe satış uygulaması.pdb

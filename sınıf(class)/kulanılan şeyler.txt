@@ -1,0 +1,22 @@
+sınıf
+-------------
+apartman --> sınıf
+daire --> nesne
+özelikler
+*renk
+*kat
+*fiyat
+*oda tipi
+/////////////////////////
+sınıf--> araba
+özelikler
+************
+hız
+fiyat
+renk
+durumu
+marka
+------------
+formlar arası geciş ise;
+solution explorer > program.cs > Application.Run(new Form2());
+buradan hangi formu calıştımak isitorsan onun ismini yaz 

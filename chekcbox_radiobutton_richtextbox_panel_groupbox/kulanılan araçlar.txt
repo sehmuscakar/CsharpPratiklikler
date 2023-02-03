@@ -1,0 +1,12 @@
+chekcbox:kontrol kutusu=>secilen değerin alınıp alınmadğını kontorl eder 
+iki tane durum var true yada false ,ketçap olsun mu olmasın mı gibi
+KARAR YAPISINA GİRİYOR YANİ ÜSTEKİ
+
+groupbox:grup kutusu=>araçları gruplandırmaya yarar 
+
+Radiobutton:ikili seçmelerde kulanılır ,evli bekar ,askere gitmiş gitmemiş gibi
+
+panel:araçları bir araya almaya yarıyor ,uygulamaların tasarım kısmında daha cok kulanılıyor 
+
+richtextbox:zengin metin kutusu=>textmetin e benziyor, textmetinin daha gelişmişi gibi 
+

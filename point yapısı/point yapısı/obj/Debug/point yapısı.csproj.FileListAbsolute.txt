@@ -1,0 +1,9 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\bin\Debug\point yapısı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\bin\Debug\point yapısı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\bin\Debug\point yapısı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\obj\Debug\point_yapısı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\obj\Debug\point_yapısı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\obj\Debug\point yapısı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\obj\Debug\point yapısı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\obj\Debug\point yapısı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\point yapısı\point yapısı\obj\Debug\point yapısı.pdb

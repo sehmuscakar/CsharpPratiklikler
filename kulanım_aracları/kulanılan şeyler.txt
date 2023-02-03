@@ -1,0 +1,10 @@
+buton:döğme=>olayları tetiklemek için kulanılan aracımız
+NOT:programda komutları . ile birbirine bağlarız 
+mesagebox:mesajkutusu
+show:göster
+not:eğer açılan seylerde show gibi sol unda küp varsa mor olur 
+bu komutur yani burda parentez açılıp kapanması lazım
+not:eğer aritmetik bir işlem yapıyorsan "" içine yazıyorsun 
+START:başlat
+label:etiket=>bilgi vermek amacıyla kulanılır 
+textbox:metinkutusu=>klavyeden veri alır,dişarıdan veri girilir

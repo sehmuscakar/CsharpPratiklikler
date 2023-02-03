@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\bin\Debug\for döngüsü.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for döngüsü.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for_döngüsü.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for_döngüsü.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for döngüsü.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for döngüsü.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\for döngüsü\for döngüsü\obj\Debug\for döngüsü.pdb

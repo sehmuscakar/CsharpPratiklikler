@@ -1,0 +1,3 @@
+toint16:32 bin +-
+toint32:32 bin iki bucuk milyar ,en yaygın bu kulanılıyor
+toint64:bu baya buyuk 

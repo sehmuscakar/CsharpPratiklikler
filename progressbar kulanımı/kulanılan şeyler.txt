@@ -1,0 +1,1 @@
+progressbar:durum cubuğu=>> işlem cubuğu yani bir iş yapıldığında nereye kadar yaıldı gibisinden 

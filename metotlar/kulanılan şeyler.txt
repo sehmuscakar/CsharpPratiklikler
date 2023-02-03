@@ -1,0 +1,15 @@
+Metot:ikiye ayrılır ,komutları bir araya toplayan yapılardır
+hani mor renkli küp sembolü oda metot ,
+tekrar durumunda grekektiğinde kulanılır 
+
+1)private:
+2)publiç:
+
+-----------------
+geriyye değer dündüren
+geriye değer dündürmeyen 
+
+metodlar global alana yazılır scop dişina ,
+metodu private veya pubilç tanıtmasan otomatik private olarak algılar 
+
+KOD KISMINA İYİ BAK ORADA AYRINTILAR VAR 

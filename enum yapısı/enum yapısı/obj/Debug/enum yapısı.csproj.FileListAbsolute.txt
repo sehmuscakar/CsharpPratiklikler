@@ -1,0 +1,10 @@
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\bin\Debug\enum yapısı.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\bin\Debug\enum yapısı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\bin\Debug\enum yapısı.pdb
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum yapısı.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum_yapısı.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum_yapısı.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum yapısı.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum yapısı.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum yapısı.exe
+C:\Users\scaka\OneDrive\Masaüstü\udemy c# konuları\enum yapısı\enum yapısı\obj\Debug\enum yapısı.pdb
